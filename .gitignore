@@ -15,7 +15,6 @@ venv/
 .vscode/
 
 # Docker
-Dockerfile*
 docker-compose*.yml
 *.pid
 
@@ -27,3 +26,4 @@ Thumbs.db
 *.log
 *.sqlite3
 *.db
+.azure
