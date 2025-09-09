@@ -1,0 +1,29 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.egg-info
+build/
+dist/
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Docker
+Dockerfile*
+docker-compose*.yml
+*.pid
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+*.log
+*.sqlite3
+*.db
